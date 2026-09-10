@@ -128,11 +128,5 @@ GOOGLE\_API\_KEY=your\_google\_api\_key\_here
 
 
 
-\## 🙏 Credits \& Acknowledgments
-
-
-
-Special thanks to \*\*Codebasics\*\* for their outstanding educational content on Data Science, AI, and Agentic AI engineering.
-
 
 
